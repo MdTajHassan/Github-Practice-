@@ -27,6 +27,10 @@ class ViewController: UIViewController
         view.addSubview(image)
     }
 
-
+    @IBAction func button2(_ sender: Any)
+    {
+        print("button2")
+    }
+    
 }
 
